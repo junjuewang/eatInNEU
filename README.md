@@ -38,7 +38,7 @@
    <li>Leave Feedback<br/>
    When you got there, or when you're all set, it's time to give us some feedback! Rate the venue, click 'Like' button at the right of the venue's detail page. Only one rate/like per user. But you could change the score you gave whenever you want. You could also leave some tips below. This would help others to know better about the venue. Tell us if you like it, share your favorite ones!</li>
    <li>Error? No Numbers! <br/>
-    I couldn't assure you there's no bad links in my website. But I use an error page to handle possible error as I could. 404 and 500 won's show directly, instead, you will see the page with lovely huskies. Maybe they are the ones who gonna taking responsibility for broken my page! :P</li>
+    I couldn't assure you there's no bad link in my website. But I use an error page to handle possible error as I could. 404 and 500 won's show directly, instead, you will see the page with lovely huskies. Maybe they are the ones who gonna taking responsibility for broken my page! :P</li>
   </ul>
   <h5>About design</h5>
   <ul>
