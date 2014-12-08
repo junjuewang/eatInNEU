@@ -14,34 +14,49 @@
   The website is designed for everyone, everywhere.
   <h5>Become an User</h5>
   <ul>
-   <li>Easy to become an user. Instead of enter tons of information, I know my website is design for lazy guys and this will definitely keep million users away from me, email address and password are enough! You can update your profile later, for example, edit your name, gender, location, website and link with other social tools. But for the sign up, I don't want to borther you with them.</li>
-   <li>Easy to link. If you don't want to create a new account, you could sign in with Google, Facebook or Twitter account. There's no excuse to become an user, right? :P </li>
-   <li>Reset password. If you forgot your password, simply follow the instruction, the link would sent to your email and lead you to the password reset page.</li>
-   <li>Contact the developer? Notice there's a 'Contact' button on the top of screen. You could pass your thoughts to me. Don't forget leave your email in order to get the feedback. If you find bugs, that's awkward, but please contact me and give me a chance to fix it. If you have some advises and suggestions, welcome to share your opinions!</li>
+   <li>Easy to become an user<br/>
+    Instead of enter tons of information, I know my website is design for lazy guys and this will definitely keep million users away from me, email address and password are enough! You can update your profile later, for example, edit your name, gender, location, website and link with other social tools. But for the sign up, I don't want to borther you with them.</li>
+   <li>Easy to link<br/>
+    If you don't want to create a new account, you could sign in with Google, Facebook or Twitter account. There's no excuse to become an user, right? :P </li>
+   <li>Reset password<br/>
+    If you forgot your password, simply follow the instruction, the link would sent to your email and lead you to the password reset page.</li>
+   <li>Contact the developer? <br/>
+    Notice there's a 'Contact' button on the top of screen. You could pass your thoughts to me. Don't forget leave your email in order to get the feedback. If you find bugs, that's awkward, but please contact me and give me a chance to fix it. If you have some advises and suggestions, welcome to share your opinions!</li>
   </ul>
   <h5>Fetures</h5>
   <ul>
-   <li>All in here. Included all the venues in NEU. No matter what you want to find, all here!</li>
-   <li>Use Everywhere. This website is responsive, works well on PC, tablets and phones.</li>
-   <li>Search what you want. You could find your favorite one by input the name, our website would show you the one you searched, and recommond two venues you might interested with at the same time. Simple search, simple answer. </li>
-   <li>Select what you want. Maybe you're not sure which place to eat right now. I know it's a hard decision. What about select one directory you're interested with and let us to show you what we have. Simple select, simple choice. </li>
-   <li>Get direction. After deceied where to go, let us guide you there. It would ask for permission to use your current location, please allow it in order to get a direction to the venue you chose.</li>
-   <li>Leave Feedback. When you got there, or when you're all set, it's time to give us some feedback! Rate the venue, click 'Like' button at the right of the venue's detail page. Only one rate/like per user. But you could change the score you gave whenever you want. You could also leave some tips below. This would help others to know better about the venue. Tell us if you like it, share your favorite ones!</li>
+   <li>All in here<br/>
+    Included all the venues in NEU. No matter what you want to find, all here!</li>
+   <li>Use Everywhere<br/>
+    This website is responsive, works well on PC, tablets and phones.</li>
+   <li>Search what you want<br/>
+    You could find your favorite one by input the name, our website would show you the one you searched, and recommond two venues you might interested with at the same time. Simple search, simple answer. </li>
+   <li>Select what you want<br/>
+    Maybe you're not sure which place to eat right now. I know it's a hard decision. What about select one directory you're interested with and let us to show you what we have. Simple select, simple choice. </li>
+   <li>Get direction<br/>
+    After deceied where to go, let us guide you there. It would ask for permission to use your current location, please allow it in order to get a direction to the venue you chose.</li>
+   <li>Leave Feedback<br/>
+   When you got there, or when you're all set, it's time to give us some feedback! Rate the venue, click 'Like' button at the right of the venue's detail page. Only one rate/like per user. But you could change the score you gave whenever you want. You could also leave some tips below. This would help others to know better about the venue. Tell us if you like it, share your favorite ones!</li>
+   <li>Error? No Numbers! <br/>
+    I couldn't assure you there's no bad links in my website. But I use an error page to handle possible error as I could. 404 and 500 won's show directly, instead, you will see the page with lovely huskies. Maybe they are the ones who gonna taking responsibility for broken my page! :P</li>
   </ul>
   <h5>About design</h5>
   <ul>
-   <li>Bright color. Use Orange as our theme color. This is a website about food. I know food makes you delight, so dose our website.</li>
-   <li>Do you like our logo? I'm pround to say, I really like the one I designed. The logo is the abbreviation of EatInNEU. It looks like a hungry husky who's looking for food just like you and me.</li>
-   <li>Make everything SIMPLE. Simple is the key word of my website. Avoid using a lot of inputs or selections, one or two clicks are enough. For feedback, rating and likes only need clicks. Without redirect to other page, leave tips in the textarea and click 'ADD', you're all set.</li>
+   <li>Bright color<br/>
+    Use Orange as my theme color. This is a website about food. I know food makes you delight, so dose our website.</li>
+   <li>Do you like my logo? <br/>
+   I'm pround to say, I really like the one I designed. The logo is the abbreviation of EatInNEU. It looks like a hungry husky who's looking for food just like you and me.</li>
+   <li>Make everything SIMPLE<br/>
+   Simple is the key word of my website. Avoid using a lot of inputs or selections, one or two clicks are enough. For feedback, rating and likes only need clicks. Without redirect to other page, leave tips in the textarea and click 'ADD', you're all set.</li>
   </ul>
   
   <h3>Steps to run locally</h3>
   -----------------------------
   <ul>
-   <li>Git clone from master branch. https://github.com/junjuewang/eatInNEU/</li>
-   <li>Run "npm install". You might need sudo to run this command. Once node-modules installed successfully, you are ready to go!</li>
-   <li>Run "mongod" to start mongodb. For more info about mongodb, please see <a href='http://www.mongodb.org/'>MongoDB</a>.</li>
-   <li>Run "npm start" to start the website. You could go to localhost:3000 to check it.</li>
+   <li>Git clone from master branch.<br/> https://github.com/junjuewang/eatInNEU/</li>
+   <li>Run "npm install". <br/>You might need sudo to run this command. Once node-modules installed successfully, you are ready to go!</li>
+   <li>Run "mongod" to start mongodb.<br/> For more info about mongodb, please see <a href='http://www.mongodb.org/'>MongoDB</a>.</li>
+   <li>Run "npm start" to start the website. <br/>You could go to localhost:3000 to check it.</li>
    Note: If you want to use oAuth, please replace the stars in config/secrets.js with your keys.
   </ul>
 
@@ -88,9 +103,12 @@
   ----------
   This is embarrassing. Debugging draws me crazy. But there still have some known bugs.
   <ul>
-   <li>Broswer. Chorme is recommoned.  IE, I'm sorry, this website dosen't work well on you.</li>
-   <li>Link. Use https instead of http. Serval user met Oauth problem when using http protocol. Might occur wrong redirection. </li>
-   <li>Maps. Need time to load. Need permission to allow using current location. If canvas doesn't load successfully, try clear browser cookies. Most dead map would work after clear browsing data. </li>
+   <li>Broswer<br/>
+    Chorme is recommoned.  IE, I'm sorry, this website dosen't work well on you.</li>
+   <li>Link<br/>
+    Use https instead of http. Serval user met Oauth problem when using http protocol. Might occur wrong redirection. </li>
+   <li>Maps<br/>
+    Need time to load. Need permission to allow using current location. If canvas doesn't load successfully, try clear browser cookies. Most dead map would work after clear browsing data. </li>
   </ul>
   If you find a new one, please let me know. Thanks!
 
