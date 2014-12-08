@@ -23,11 +23,37 @@ Eat In NEU
    Note: If you want to use oAuth, please replace the stars in config/secrets.js with your keys.
   </ul>
 
+  Known Bugs
+  ----------
+
   Contributing
   ------------
 
   Reference
   ---------
+  Especilly thanks to <a href="https://github.com/sahat/hackathon-starter">Sahat Yalkabov</a>.
+
+  <ul>
+   <li><a href="http://www.nudining.com/">www.nudining.com/</a></li>
+   <li><a href="http://kigokitchen.com/">kigokitchen.com/</a></li>
+   <li><a href="http://nudining.com/">nudining.com/</a></li>
+   <li><a href="http://popeyes.com/">popeyes.com/</a></li>
+   <li><a href="http://www.starbucks.com/">www.starbucks.com/</a></li>
+   <li><a href="http://www.sweettomatoespizza.com/index.php">www.sweettomatoespizza.com/index.php</a></li>
+   <li><a href="http://www.tacobell.com/">www.tacobell.com/</a></li>
+   <li><a href="https://twitter.com/UBURGER">twitter.com/UBURGER</a></li>
+   <li><a href="http://argotea.com/">argotea.com/</a></li>
+   <li><a href="https://foursquare.com/v/caf%C3%A9716/4e70b17a152073dd03be0faa">foursquare.com/v/caf%C3%A9716/4e70b17a152073dd03be0faa</a></li>
+   <li><a href="http://jambajuice.com/">jambajuice.com/</a></li>
+   <li><a href="http://www.peets.com/">www.peets.com/</a></li>
+   <li><a href="http://inkd.net/design/work/print/hungry-hungry-husky-food-truck/">inkd.net/design/work/print/hungry-hungry-husky-food-truck/</a></li>
+   <li><a href="https://www.dunkindonuts.com/dunkindonuts/en.html">www.dunkindonuts.com/dunkindonuts/en.html</a></li>
+   <li><a href="http://www.rebeccascafe.com/">www.rebeccascafe.com/</a></li>
+   <li><a href="http://www.subway.com/subwayroot/default.aspx">www.subway.com/subwayroot/default.aspx</a></li>
+   <li><a href="http://www.bmpet.com/xiangce/gougou/hashiqi/2012/0915/31800_9.html">www.bmpet.com/xiangce/gougou/hashiqi/2012/0915/31800_9.html</a></li>
+   <li><a href="http://subtlepatterns.com/light-sketch/">subtlepatterns.com/light-sketch/</a></li>
+   <li><a href="http://www.webtexture.net/textures/12-black-grid-leather-and-metal-pattern-background/">www.webtexture.net/textures/12-black-grid-leather-and-metal-pattern-background/</a></li>
+  </ul>
 
   License
   -------
