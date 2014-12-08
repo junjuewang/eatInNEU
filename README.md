@@ -14,8 +14,8 @@ Eat In NEU
   The website is designed for everyone, everywhere.
   <h5>Become an User</h5>
   <ul>
-   <li>Easy to become a user. Instead of enter kinds of information, I know my website is design for lazy guys and this will definitely keep million users away from me, email address and password are enough! You can update your profile later, for example, your name, gender, location, website and link with other social tools. But for the sign up, I don't want to borther you with them.</li>
-   <li>Easy to link. If you don't want to create a new account, you could sign in with Google, Facebook or Twitter account. There's no excuse to become a user, right? :P </li>
+   <li>Easy to become an user. Instead of enter kinds of information, I know my website is design for lazy guys and this will definitely keep million users away from me, email address and password are enough! You can update your profile later, for example, your name, gender, location, website and link with other social tools. But for the sign up, I don't want to borther you with them.</li>
+   <li>Easy to link. If you don't want to create a new account, you could sign in with Google, Facebook or Twitter account. There's no excuse to become an user, right? :P </li>
    <li>Reset password. If you forgot your password, simply follow the instruction, the link would sent to your email and lead you to the reset password page.</li>
    <li>Contact the developer? Notice there's a 'Contact' button on the top of screen. You could leave your thoughts to me. Don't forget leave your email in order to get the feedback. If you find bugs, that's awkward, but please contact me and give me a chance to make it better. If you have some advises and suggestions, welcome to share your opinions!</li>
   </ul>
@@ -47,7 +47,43 @@ Eat In NEU
 
   <h3>Related Experiments</h3>
   ----------
-
+  <h5>Design</h5>
+  <ul>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/02_css/001_hover.html">Hover</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/02_css/002_responsiveNav.html">Responsive Navbar</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/06_js/003_likeButton.html">Like Button</a></li>
+  </ul>
+  
+  <h5>Features</h5>
+  <ul>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/07_functional/004_cascadingDropdown.html">Drop Down Menu</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/07_functional/003_datafilter.html">Filter by Input</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/07_functional/002_scrollTop.html">Scroll To Top Button</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/06_js/002_imgChanging.html">Display Images</a></li>
+  </ul>
+  
+  <h5>Maps</h5>
+  <ul>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/03_angular/003_geoLocationAPI.html">Current Location</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/03_angular/004_mapAlpha.html">Destination Mark</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/03_angular/005_directionAlpha.html">Get Direction</a></li>
+  </ul>
+  
+  <h5>Account</h5>
+  <ul>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/03_angular/001_registerPage.html">Create User</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/04_jquery/004_login.html">Login</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/10_oauth/login.html">Oauth</a></li>
+  </ul>
+  
+  <h5>Database</h5>
+  <ul>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/06_js/001_formValidation.html">Validation</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/08_db/001_mongodb.html">Databas: MongoDB1</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/08_db/002_structure.html">Databas: MongoDB2</a></li>
+   <li><a href="http://net4.ccs.neu.edu/home/junjue/experiments/08_db/003_vennus.html">Databas: MongoDB3</a></li>
+  </ul>
+ 
   <h3>Known Bugs</h3>
   ----------
   This is embarrassing. Debug draws me crazy. But there still have some known bugs.
@@ -60,11 +96,11 @@ Eat In NEU
 
   <h3>Contributing</h3>
   ---------------------
-  Professor Annunziato, I want to express my sincere gratitude for all the efforts he has taken during these semester. From the day one, I have enjoyed every class. He has taught us so much useful and powerful skills.
-  <br/><br/>
-  Thanks for my TA, Sandeep, who gave me a lot of useful suggestions and always patiently solve the problems I met. 
-  <br/><br/>
-  Zhenhao and Bohan, I really appreciate your help. Everytime I met problems I couldn't fix, you never say no when I'm asking for help. Your accompanying becomes my strength to overcome every barrier. In such a short time, I don't think my website could officially online without you.
+  <ul>
+   <li>Professor Annunziato, I want to express my sincere gratitude for all the efforts he has taken during these semester. From the day one, I have enjoyed every class. He has taught us so much useful and powerful skills.</li>
+   <li>Thanks for my TA, Sandeep, who gave me a lot of useful suggestions and always patiently solve the problems I met.</li>
+   <li>Zhenhao and Bohan, I really appreciate your help. Everytime I met problems I couldn't fix, you never say no when I'm asking for help. Your accompanying becomes my strength to overcome every barrier. In such a short time, I don't think my website could officially online without you.</li>
+  </ul>
   
   <h3>Reference</h3>
   ------------------
