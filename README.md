@@ -1,8 +1,8 @@
-Eat In NEU
+<h1>Eat In NEU</h1>
+ ![Alt](https://github.com/junjuewang/eatInNEU/blob/master/public/image/eatlogo.png)
 
-![Alt](https://github.com/junjuewang/eatInNEU/blob/master/public/image/eatlogo.png)
 
-  **Website**: https://junjue.herokuapp.com 
+**Website**: https://junjue.herokuapp.com 
 
   A website for you to find a place to eat in Northeastern University.
 
