@@ -6,7 +6,7 @@
 
   A website for you to find a place to eat in Northeastern University.
 
-  This is my CS5610 course project. Sometimes it is very difficult for people to pick up the place to eat. When I first came NEU, I had a terrible experience. I ate Subway for nearly a whole semester, just because it's close to the classroom, and I don't have time to chose another because I wasted all the time thinking about what to eat :(
+  This is my CS5610 course project. Sometimes it is very difficult for people to pick up the place to eat. When I first came NEU, I had a terrible experience. I ate Subway for nearly a whole semester, just because it's close to the classroom. The reason why I don't have time to chose another is, I wasted all the time thinking about what to eat :(
   So I decided to develop our own website, to help you to decide what to eat easily. Simply pick up the category, eatInNEU will list the Top3 venues for you to go!
 
   <h3>Highlights</h3>
