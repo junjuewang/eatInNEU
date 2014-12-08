@@ -61,9 +61,9 @@ Eat In NEU
   <h3>Contributing</h3>
   ---------------------
   Professor Annunziato, I want to express my sincere gratitude for all the efforts he has taken during these semester. From the day one, I have enjoyed every class. He has taught us so much useful and powerful skills.
-  <br/>
+  <br/><br/>
   Thanks for my TA, Sandeep, who gave me a lot of useful suggestions and always patiently solve the problems I met. 
-  <br/>
+  <br/><br/>
   Zhenhao and Bohan, I really appreciate your help. Everytime I met problems I couldn't fix, you never say no when I'm asking for help. Your accompanying becomes my strength to overcome every barrier. In such a short time, I don't think my website could officially online without you.
   
   <h3>Reference</h3>
