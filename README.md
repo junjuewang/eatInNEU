@@ -10,6 +10,18 @@ Eat In NEU
 
   Highlights
   ----------
+  <ul>
+    <li>Included all the venues around NEU.</li>
+  </ul>
+  Steps to run locally
+  --------------------
+  <ul>
+   <li>Git clone from master branch. https://github.com/junjuewang/eatInNEU/</li>
+   <li>Run "npm install". You might need sudo to run this command. Once node-modules installed successfully, you are ready to go!</li>
+   <li>Run "mongod" to start mongodb. For more info about mongodb, please see <a href='http://www.mongodb.org/'>MongoDB</a>.</li>
+   <li>Run "npm start" to start the website. You could go to localhost:3000 to check it.</li>
+   Note: If you want to use oAuth, please replace the stars in config/secrets.js with your keys.
+  </ul>
 
   Contributing
   ------------
