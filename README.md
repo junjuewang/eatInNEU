@@ -6,13 +6,37 @@ Eat In NEU
 
   A website for you to find a place to eat in Northeastern University.
 
-  This is my CS5610 course project. Sometimes it is very difficult for me to pick up the place to eat. So I decided to develop our own website.
+  This is my CS5610 course project. Sometimes it is very difficult for people to pick up the place to eat. When I first came NEU, I had a terrible experience. I ate Subway for nearly whole semester, just because it's close to the classroom, and I don't have time to chose another because I wasted all the time thinking about what to eat :(
+  So I decided to develop our own website. Help you deceide what to eat easily. Simply choose the directories, EatInNEU will list the Top3 for you to choose!
 
   Highlights
   ----------
+  The website is designed for everyone, everywhere.
+  <h5>Become a User</h5>
   <ul>
-    <li>Included all the venues around NEU.</li>
+   <li>Easy to become a user. Instead of enter kinds of information, I know my website is design for lazy guys and this will definitely keep million users away from me, email address and password are enough! You can update your profile later, for example, your name, gender, location, website and link with other social tools. But for the sign up, I don't want to borther you with them.</li>
+   <li>Easy to link. If you don't want to create a new account, you could sign in with Google, Facebook or Twitter account. There's no excuse to become a user, right? :P </li>
+   <li>Reset password. If you forgot your password, simply follow the instruction, the link would sent to your email and lead you to the reset password page.</li>
+   <li>Contact the developer? Notice there's a 'Contact' button on the top of screen. You could leave your thoughts to me. Don't forget leave your email in order to get the feedback. If you find bugs, that's awkward, but please contact me and give me a chance to make it better. If you have some advises and suggestions, welcome to share your opinions!</li>
   </ul>
+  Fetures
+  <ul>
+   <li>All in here. Included all the venues in NEU. No matter what you want to find, it all here!</li>
+   <li>Find what you want - By search. You could find your favorite one by input the name, our website would show you the one you searched, and recommond two venues you might interested with the same categories at the same time. Simple search, simple answer. </li>
+   <li>Find what you want - By select. Maybe you're not sure which place to eat right now. I know it's a hard decision! What about select one directory you're interested and let us to show you what we have. Simple select, simple choice. </li>
+   <li>Get direction. After deceied where to go, let us guide you there. It would ask for permission to use your current location, please allow it in order to get a direction to the venue you chose.</li>
+   <li>Leave Feedback. When you got there, or when you're all set, it's time to give us some feedback! Rate the venue, click 'Like' button at the right of the venue's detail page. Only one rate/like per user. But you could change it whenever you want. You could also leave some tips below. This would help other to know better about the venue. Tell us if you like it, share your favorite ones!</li>
+  </ul>
+  <h5>About design</h5>
+  <ul>
+   <li>Bright color.Use Orange as our theme color. This is a website about food. I know food makes you delight, so dose our theme color.</li>
+   <li>Do you like our logo? I'm pround to say, I really like this logo I designed. The logo is the abbreviation of EatInNEU. It looks like a hungry husky who's looking for food just like you and me.</li>
+   <li>Make everything SIMPLE. Simple is the key word of my website. Avoid using a lot of inputs or selections, one or two clicks are enough. For feedback, rating and likes only need clicks. Without redirect to other page, leave tips in the textarea and click 'ADD', that's it.</li>
+  </ul>
+  
+  
+  
+  
   Steps to run locally
   --------------------
   <ul>
