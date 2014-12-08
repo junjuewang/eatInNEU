@@ -1,0 +1,20 @@
+extends layout
+block title
+    title Directions
+    link(href='/css/style.css', rel='stylesheet')
+    script(src='https://maps.googleapis.com/maps/api/js?v=3.exp')
+    script(type='text/javascript', src='/js/direction.js')
+
+block content
+    .div(id='address', display='none', data='#{address}')
+    .row.clearfix
+        .col-md-6.column.fillvh-left
+          #panel.panel
+            b Your destination is:
+            #end(onchange='calcRoute();')
+              option(value='#{address}') #{venue_name} 
+          #map-canvas.map-canvas
+        
+        .col-md-6.column.fillvh-right
+          #directions-panel.fillvh-right-scroll
+          a.btn.btn-lg.btn-primary.btn-bottom(href='/venue/#{venue_id}') Arrived #{venue_name} »

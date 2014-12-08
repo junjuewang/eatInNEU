@@ -1,0 +1,24 @@
+doctype html
+html(lang='en')
+head
+    meta(charset='utf-8')
+    meta(http-equiv='X-UA-Compatible', content='IE=edge')
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    meta(name='description', content='')
+    meta(name='author', content='Junjue')
+    link(rel='icon', href='/image/eatlogo.png')
+    title Welcome to EatInNEU
+    != css('styles')
+    link(href='css/cover.css', rel='stylesheet')
+    
+  body
+    .site-wrapper
+      .site-wrapper-inner
+        .cover-container
+          .inner.cover
+            img.eatlogoBig(src='/image/eatlogo.png')
+            h1.cover-heading Welcome
+            p.lead EatInNEU is the place to go.
+            p.lead
+              a.btn.btn-primary(href='level', role='button') Let's Go »
+  

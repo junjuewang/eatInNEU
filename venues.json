@@ -1,0 +1,786 @@
+[
+    {
+        "id": "001001",
+        "name": "Kigo Kitchen",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Curry Student Center",
+        "address": "346 Huntington Ave, Boston, MA 02115",
+        "telephone": "(617) 373-2000",
+        "website": "www.kigokitchen.com/northeastern/",
+        "photo": [
+            "/image/detail/001001/1.jpg",
+            "/image/detail/001001/2.jpg",
+            "/image/detail/001001/3.jpg"
+        ],
+        "map": "image/buildingMaps/001.png",
+        "openhour": {
+            "mon": "11:00 am - 7:00 pm",
+            "tue": "11:00 am - 7:00 pm",
+            "wed": "11:00 am - 7:00 pm",
+            "thu": "11:00 am - 7:00 pm",
+            "fri": "11:00 am - 5:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Lunch",
+            "Dinner",
+            "Asian",
+            "Japanese",
+            "Thai",
+            "Salad"
+        ]
+    },
+    {
+        "id": "001002",
+        "name": "On The Go",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Curry Student Center",
+        "address": "346 Huntington Ave, Boston, MA 02115",
+        "telephone": "(617) 373-7644",
+        "website": "",
+        "photo": [
+            "/image/detail/001002/1.jpg",
+            "/image/detail/001002/2.jpg",
+            "/image/detail/001002/3.jpg"
+        ],
+        "map": "image/buildingMaps/001.png",
+        "openhour": {
+            "mon": "7:00 am - 10:00 pm",
+            "tue": "7:00 am - 10:00 pm",
+            "wed": "7:00 am - 10:00 pm",
+            "thu": "7:00 am - 10:00 pm",
+            "fri": "7:00 am - 9:30 pm",
+            "sat": "8:00 am - 9:30 pm",
+            "sun": "10:00 am - 9:00 pm"
+        },
+        "category": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Bagel",
+            "Coffee",
+            "Tea",
+            "Asian",
+            "Convenience Stores"
+        ]
+    },
+    {
+        "id": "001003",
+        "name": "Popeyes Louisiana Kitchen",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Curry Student Center",
+        "address": "346 Huntington Ave, Boston, MA 02115",
+        "telephone": "(617) 373-2233",
+        "website": "popeyes.com/menu",
+        "photo": [
+            "/image/detail/001003/1.jpg",
+            "/image/detail/001003/2.jpg",
+            "/image/detail/001003/3.jpg"
+        ],
+        "map": "image/buildingMaps/001.png",
+        "openhour": {
+            "mon": "10:30 am - 09:00 pm",
+            "tue": "10:30 am - 09:00 pm",
+            "wed": "10:30 am - 09:00 pm",
+            "thu": "10:30 am - 09:00 pm",
+            "fri": "10:30 am - 09:00 pm",
+            "sat": "10:30 am - 08:00 pm",
+            "sun": "12:00 am - 07:00 pm"
+        },
+        "category": [
+            "Lunch",
+            "Dinner",
+            "Fastfood",
+            "ChickenWing",
+            "Burger",
+            "American"
+        ]
+    },
+    {
+        "id": "001004",
+        "name": "Starbucks",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Curry Student Center",
+        "address": "346 Huntington Ave, Boston, MA 02115",
+        "telephone": "(617) 373-2530",
+        "website": "starbucks.com/menu",
+        "photo": [
+            "/image/detail/001004/1.jpg",
+            "/image/detail/001004/2.jpg",
+            "/image/detail/001004/3.jpg"
+        ],
+        "map": "image/buildingMaps/001.png",
+        "openhour": {
+            "mon": "07:00 am - 10:00 pm",
+            "tue": "07:00 am - 10:00 pm",
+            "wed": "07:00 am - 10:00 pm",
+            "thu": "07:00 am - 10:00 pm",
+            "fri": "07:00 am - 10:00 pm",
+            "sat": "08:00 am - 10:00 pm",
+            "sun": "10:30 am - 06:00 pm"
+        },
+        "category": [
+            "Breakfast",
+            "Coffee",
+            "Tea",
+            "Sandwich"
+        ]
+    },
+    {
+        "id": "001005",
+        "name": "Sweet Tomatoes Pizza",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Curry Student Center",
+        "address": "346 Huntington Ave, Boston, MA 02115",
+        "telephone": "(617) 373-5969",
+        "website": "",
+        "photo": [
+            "/image/detail/001005/1.jpg",
+            "/image/detail/001005/2.jpg",
+            "/image/detail/001005/3.jpg"
+        ],
+        "map": "image/buildingMaps/001.png",
+        "openhour": {
+            "mon": "10:30 am - 08:00 pm",
+            "tue": "10:30 am - 08:00 pm",
+            "wed": "10:30 am - 08:00 pm",
+            "thu": "10:30 am - 08:00 pm",
+            "fri": "10:30 am - 08:00 pm",
+            "sat": "12:00 am - 05:00 pm",
+            "sun": "12:00 am - 05:00 pm"
+        },
+        "category": [
+            "Lunch",
+            "Dinner",
+            "Pizza",
+            "Italian"
+        ]
+    },
+    {
+        "id": "001006",
+        "name": "Taco Bell Express",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Curry Student Center",
+        "address": "346 Huntington Ave, Boston, MA 02115",
+        "telephone": "(617) 373-2000",
+        "website": "tacobell.com/",
+        "photo": [
+            "/image/detail/001006/1.jpg",
+            "/image/detail/001006/2.jpg",
+            "/image/detail/001006/3.jpg"
+        ],
+        "map": "image/buildingMaps/001.png",
+        "openhour": {
+            "mon": "10:30 am - 08:00 pm",
+            "tue": "10:30 am - 08:00 pm",
+            "wed": "10:30 am - 08:00 pm",
+            "thu": "10:30 am - 08:00 pm",
+            "fri": "10:30 am - 07:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Lunch",
+            "Dinner",
+            "Fastfood",
+            "Mexican"
+        ]
+    },
+    {
+        "id": "001007",
+        "name": "The West End",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Curry Student Center",
+        "address": "346 Huntington Ave, Boston, MA 02115",
+        "telephone": "",
+        "website": "",
+        "photo": [
+            "/image/detail/001007/1.jpg",
+            "/image/detail/001007/2.jpg",
+            "/image/detail/001007/3.jpg"
+        ],
+        "map": "image/buildingMaps/001.png",
+        "openhour": {
+            "mon": "11:00 am - 07:00 pm",
+            "tue": "11:00 am - 07:00 pm",
+            "wed": "11:00 am - 07:00 pm",
+            "thu": "11:00 am - 07:00 pm",
+            "fri": "11:00 am - 03:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Lunch",
+            "Dinner",
+            "Salad",
+            "Sandwich",
+            "Vegetarian"
+        ]
+    },
+    {
+        "id": "001008",
+        "name": "UBurger",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Curry Student Center",
+        "address": "346 Huntington Ave, Boston, MA 02115",
+        "telephone": "",
+        "website": "uburger.com",
+        "photo": [
+            "/image/detail/001008/1.jpg",
+            "/image/detail/001008/2.jpg",
+            "/image/detail/001008/3.jpg"
+        ],
+        "map": "image/buildingMaps/001.png",
+        "openhour": {
+            "mon": "11:00 am - 08:00 pm",
+            "tue": "11:00 am - 08:00 pm",
+            "wed": "11:00 am - 08:00 pm",
+            "thu": "11:00 am - 08:00 pm",
+            "fri": "11:00 am - 08:00 pm",
+            "sat": "11:00 am - 07:00 pm",
+            "sun": "12:00 am - 07:00 pm"
+        },
+        "category": [
+            "Lunch",
+            "Dinner",
+            "Burger",
+            "Fastfood",
+            "American"
+        ]
+    },
+    {
+        "id": "002001",
+        "name": "Argo Tea",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Snell Library",
+        "address": "376 Huntington Ave, Boston, MA 02115",
+        "telephone": "(617) 373-4202",
+        "website": "argotea.com",
+        "photo": [
+            "/image/detail/002001/1.jpg",
+            "/image/detail/002001/2.jpg",
+            "/image/detail/002001/3.jpg"
+        ],
+        "map": "image/buildingMaps/002.png",
+        "openhour": {
+            "mon": "07:00 am - 08:00 pm",
+            "tue": "07:00 am - 08:00 pm",
+            "wed": "07:00 am - 08:00 pm",
+            "thu": "07:00 am - 08:00 pm",
+            "fri": "07:00 am - 05:00 pm",
+            "sat": "Closed",
+            "sun": "01:00 pm - 08:00 pm"
+        },
+        "category": [
+            "Breakfast",
+            "Coffee",
+            "Tea"
+        ]
+    },
+    {
+        "id": "003001",
+        "name": "Café716",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Columbus Place & Alumni Center",
+        "address": "716 Columbus Ave, Boston, MA 02120",
+        "telephone": "",
+        "website": "",
+        "photo": [
+            "/image/detail/003001/1.jpg",
+            "/image/detail/003001/2.jpg",
+            "/image/detail/003001/3.jpg"
+        ],
+        "map": "image/buildingMaps/003.png",
+        "openhour": {
+            "mon": "07:00 am - 05:00 pm",
+            "tue": "07:00 am - 05:00 pm",
+            "wed": "07:00 am - 05:00 pm",
+            "thu": "07:00 am - 05:00 pm",
+            "fri": "07:00 am - 05:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Breakfast",
+            "Lunch",
+            "Coffee",
+            "Tea",
+            "Sandwich"
+        ]
+    },
+    {
+        "id": "003002",
+        "name": "Faculty Club",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Columbus Place & Alumni Center",
+        "address": "716 Columbus Ave, Boston, MA 02120",
+        "telephone": "(617) 373-3535",
+        "website": "",
+        "photo": [
+            "/image/detail/003002/1.jpg",
+            "/image/detail/003002/2.jpg",
+            "/image/detail/003002/3.jpg"
+        ],
+        "map": "image/buildingMaps/003.png",
+        "openhour": {
+            "mon": "07:00 am - 05:00 pm",
+            "tue": "11:30 am - 02:00 pm",
+            "wed": "11:30 am - 02:00 pm",
+            "thu": "11:30 am - 02:00 pm",
+            "fri": "11:30 am - 02:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Lunch",
+            "Buffet",
+            "Salad"
+        ]
+    },
+    {
+        "id": "004001",
+        "name": "Jamba Juice",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "International Village",
+        "address": "1175 Tremont St, Boston, MA 02120",
+        "telephone": "",
+        "website": "jambajuice.com",
+        "photo": [
+            "/image/detail/004001/1.jpg",
+            "/image/detail/004001/2.jpg",
+            "/image/detail/004001/3.jpg"
+        ],
+        "map": "image/buildingMaps/004.png",
+        "openhour": {
+            "mon": "07:00 am - 07:00 pm",
+            "tue": "07:00 am - 07:00 pm",
+            "wed": "07:00 am - 07:00 pm",
+            "thu": "07:00 am - 07:00 pm",
+            "fri": "07:00 am - 05:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Breakfast",
+            "Coffee",
+            "Juice",
+            "Smoothie"
+        ]
+    },
+    {
+        "id": "004002",
+        "name": "Peet's Coffee & Tea",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "International Village",
+        "address": "1175 Tremont St, Boston, MA 02120",
+        "telephone": "(617) 373-3396",
+        "website": "peets.com",
+        "photo": [
+            "/image/detail/004002/1.jpg",
+            "/image/detail/004002/2.jpg",
+            "/image/detail/004002/3.jpg"
+        ],
+        "map": "image/buildingMaps/004.png",
+        "openhour": {
+            "mon": "07:00 am - 07:00 pm",
+            "tue": "07:00 am - 07:00 pm",
+            "wed": "07:00 am - 07:00 pm",
+            "thu": "07:00 am - 07:00 pm",
+            "fri": "07:00 am - 05:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Breakfast",
+            "Coffee",
+            "Tea"
+        ]
+    },
+    {
+        "id": "005001",
+        "name": "Dunkin’ Donuts (Hayden Hall)",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Hayden Hall",
+        "address": "360 Huntington Ave, Boston, MA 02115",
+        "telephone": "",
+        "website": "dunkindonuts.com",
+        "photo": [
+            "/image/detail/dd/1.jpg",
+            "/image/detail/dd/2.jpg",
+            "/image/detail/dd/3.jpg"
+        ],
+        "map": "image/buildingMaps/005.png",
+        "openhour": {
+            "mon": "06:00 am - 08:00 pm",
+            "tue": "06:00 am - 08:00 pm",
+            "wed": "06:00 am - 08:00 pm",
+            "thu": "06:00 am - 08:00 pm",
+            "fri": "06:00 am - 08:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Breakfast",
+            "Coffee",
+            "Tea"
+        ]
+    },
+    {
+        "id": "006001",
+        "name": "Outtakes",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Stetson East",
+        "address": "11 Speare Place, Boston, MA 02115",
+        "telephone": "(617) 373-4776",
+        "website": "",
+        "photo": [
+            "/image/detail/006001/1.jpg",
+            "/image/detail/006001/2.jpg",
+            "/image/detail/006001/3.jpg"
+        ],
+        "map": "image/buildingMaps/006.png",
+        "openhour": {
+            "mon": "07:00 am - 01:00 am",
+            "tue": "07:00 am - 01:00 am",
+            "wed": "07:00 am - 01:00 am",
+            "thu": "07:00 am - 01:00 am",
+            "fri": "07:00 am - 07:00 pm",
+            "sat": "Closed",
+            "sun": "08:00 pm - 12:00 am"
+        },
+        "category": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Fastfood",
+            "Sandwich",
+            "Burger",
+            "Asian",
+            "Salad",
+            "Italian"
+        ]
+    },
+    {
+        "id": "006002",
+        "name": "Stetson West Eatery",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Stetson East",
+        "address": "11 Speare Place, Boston, MA 02115",
+        "telephone": "",
+        "website": "",
+        "photo": [
+            "/image/detail/006002/1.jpg",
+            "/image/detail/006002/2.jpg",
+            "/image/detail/006002/3.jpg"
+        ],
+        "map": "image/buildingMaps/006.png",
+        "openhour": {
+            "mon": "11:00 am - 08:00 pm",
+            "tue": "11:00 am - 08:00 pm",
+            "wed": "11:00 am - 08:00 pm",
+            "thu": "11:00 am - 08:00 pm",
+            "fri": "11:00 am - 08:00 pm",
+            "sat": "Closed",
+            "sun": "02:00 pm - 08:00 pm"
+        },
+        "category": [
+            "Lunch",
+            "Dinner",
+            "Pizza",
+            "Sandwich",
+            "Salad"
+        ]
+    },
+    {
+        "id": "007001",
+        "name": "Levine Marketplace",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Levine Hall and St. Stephen St. Complex",
+        "address": "122 St. Stephen St., Boston, MA 02115",
+        "telephone": "",
+        "website": "",
+        "photo": [
+            "/image/detail/007001/1.jpg",
+            "/image/detail/007001/2.jpg",
+            "/image/detail/007001/3.jpg"
+        ],
+        "map": "image/buildingMaps/007.png",
+        "openhour": {
+            "mon": "07:00 am - 11:00 pm",
+            "tue": "07:00 am - 11:00 pm",
+            "wed": "07:00 am - 11:00 pm",
+            "thu": "07:00 am - 11:00 pm",
+            "fri": "07:00 am - 10:00 pm",
+            "sat": "07:00 am - 10:00 pm",
+            "sun": "08:00 pm - 10:00 pm"
+        },
+        "category": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Burger",
+            "Pizza",
+            "Sandwich",
+            "Salad",
+            "Italian"
+        ]
+    },
+    {
+        "id": "004003",
+        "name": "International Village Buffet",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "International Village",
+        "address": "1175 Tremont St, Boston, MA 02120",
+        "telephone": "",
+        "website": "",
+        "photo": [
+            "/image/detail/004003/1.jpg",
+            "/image/detail/004003/2.jpg",
+            "/image/detail/004003/3.jpg"
+        ],
+        "map": "image/buildingMaps/004.png",
+        "openhour": {
+            "mon": "07:00 am - 10:00 pm",
+            "tue": "07:00 am - 10:00 pm",
+            "wed": "07:00 am - 10:00 pm",
+            "thu": "07:00 am - 10:00 pm",
+            "fri": "07:00 am - 09:00 pm",
+            "sat": "08:00 am - 09:00 pm",
+            "sun": "08:00 am - 08:00 pm"
+        },
+        "category": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "American",
+            "Asian",
+            "Buffet"
+        ]
+    },
+    {
+        "id": "004004",
+        "name": "Deli To Go",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "International Village",
+        "address": "1175 Tremont St, Boston, MA 02120",
+        "telephone": "",
+        "website": "",
+        "photo": [
+            "/image/detail/004004/1.jpg",
+            "/image/detail/004004/2.jpg",
+            "/image/detail/004004/3.jpg"
+        ],
+        "map": "image/buildingMaps/004.png",
+        "openhour": {
+            "mon": "11:00 am - 05:00 pm",
+            "tue": "11:00 am - 05:00 pm",
+            "wed": "11:00 am - 05:00 pm",
+            "thu": "11:00 am - 05:00 pm",
+            "fri": "11:00 am - 05:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Lunch",
+            "Dinner",
+            "Sandwich"
+        ]
+    },
+    {
+        "id": "008001",
+        "name": "Hungry Hungry Husky",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Centennial Common",
+        "address": "Centennial Common, Boston, MA 02120",
+        "telephone": "",
+        "website": "",
+        "photo": [
+            "/image/detail/008001/1.jpg",
+            "/image/detail/008001/2.jpg",
+            "/image/detail/008001/3.jpg"
+        ],
+        "map": "image/buildingMaps/008.png",
+        "openhour": {
+            "mon": "10:30 am - 02:30 pm",
+            "tue": "10:30 am - 02:30 pm",
+            "wed": "10:30 am - 02:30 pm",
+            "thu": "10:30 am - 02:30 pm",
+            "fri": "10:30 am - 02:30 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Lunch",
+            "Foodtruck",
+            "Sandwich"
+        ]
+    },
+    {
+        "id": "009001",
+        "name": "Rebecca's Café",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Churchill Hall",
+        "address": "380 Huntington Ave, Boston, MA 02115",
+        "telephone": "(617) 373-7183",
+        "website": "rebeccascafe.com/neu/",
+        "photo": [
+            "/image/detail/009001/1.jpg",
+            "/image/detail/009001/2.jpg",
+            "/image/detail/009001/3.jpg"
+        ],
+        "map": "image/buildingMaps/009.png",
+        "openhour": {
+            "mon": "07:00 am - 04:00 pm",
+            "tue": "07:00 am - 04:00 pm",
+            "wed": "07:00 am - 04:00 pm",
+            "thu": "07:00 am - 04:00 pm",
+            "fri": "07:00 am - 04:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Coffee",
+            "Breakfast",
+            "Lunch",
+            "Sandwich"
+        ]
+    },
+    {
+        "id": "010001",
+        "name": "Subway",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Ryder Hall",
+        "address": "11 Leon St, Boston, MA 02115",
+        "telephone": "(617) 373-4613",
+        "website": "subway.com",
+        "photo": [
+            "/image/detail/010001/1.jpg",
+            "/image/detail/010001/2.jpg",
+            "/image/detail/010001/3.jpg"
+        ],
+        "map": "image/buildingMaps/010.png",
+        "openhour": {
+            "mon": "07:00 am - 07:00 pm",
+            "tue": "07:00 am - 09:00 pm",
+            "wed": "07:00 am - 09:00 pm",
+            "thu": "07:00 am - 09:00 pm",
+            "fri": "07:00 am - 08:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Breakfast",
+            "Lunch",
+            "Dinner",
+            "Fastfood",
+            "Sandwich"
+        ]
+    },
+    {
+        "id": "011001",
+        "name": "Dunkin’ Donuts (Shillman Hall)",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Shillman Hall",
+        "address": "115 Forsyth St, Boston, MA 02115",
+        "telephone": "(617) 373-8414",
+        "website": "dunkindonuts.com",
+        "photo": [
+            "/image/detail/dd/1.jpg",
+            "/image/detail/dd/2.jpg",
+            "/image/detail/dd/3.jpg"
+        ],
+        "map": "image/buildingMaps/011.png",
+        "openhour": {
+            "mon": "06:00 am - 08:00 pm",
+            "tue": "06:00 am - 08:00 pm",
+            "wed": "06:00 am - 08:00 pm",
+            "thu": "06:00 am - 08:00 pm",
+            "fri": "06:00 am - 08:00 pm",
+            "sat": "Closed",
+            "sun": "Closed"
+        },
+        "category": [
+            "Breakfast",
+            "Coffee",
+            "Tea"
+        ]
+    },
+    {
+        "id": "012001",
+        "name": "Dunkin’ Donuts (Ruggles Station)",
+        "like": 0,
+        "score": 0,
+        "visit": 0,
+        "building": "Ruggles Station",
+        "address": "1150 Tremont St, Boston, MA 02120",
+        "telephone": "(617) 442-7600",
+        "website": "dunkindonuts.com",
+        "photo": [
+            "/image/detail/dd/1.jpg",
+            "/image/detail/dd/2.jpg",
+            "/image/detail/dd/3.jpg"
+        ],
+        "map": "image/buildingMaps/012.png",
+        "openhour": {
+            "mon": "05:00 am - 10:00 pm",
+            "tue": "05:00 am - 10:00 pm",
+            "wed": "05:00 am - 10:00 pm",
+            "thu": "05:00 am - 10:00 pm",
+            "fri": "05:00 am - 10:00 pm",
+            "sat": "07:00 am - 08:00 pm",
+            "sun": "07:00 am - 08:00 pm"
+        },
+        "category": [
+            "Breakfast",
+            "Coffee",
+            "Tea"
+        ]
+    }
+]
