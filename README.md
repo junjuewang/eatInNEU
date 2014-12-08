@@ -1,6 +1,6 @@
 Eat In NEU
 
-![Alt]()
+![Alt](https://github.com/junjuewang/eatInNEU/blob/master/public/image/eatlogo.png)
 
   **Website**: https://junjue.herokuapp.com 
 
