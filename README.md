@@ -6,8 +6,8 @@
 
   A website for you to find a place to eat in Northeastern University.
 
-  This is my CS5610 course project. Sometimes it is very difficult for people to pick up the place to eat. When I first came NEU, I had a terrible experience. I ate Subway for nearly a whole semester, just because it's close to the classroom. The reason why I don't have time to chose another is, I wasted all the time thinking about what to eat :( <br />
-  So I decided to develop my own website, to help you decide what to eat easily. Simply pick up the category, eatInNEU will list the Top3 venues for you to go!
+  This is my CS5610 course project. Sometimes it is very difficult for people to pick up the place to eat. When I first came to NEU, I had a terrible experience. I've been eating Subway for nearly a whole semester, just because it's close to the classroom. The reason why I don't have time to chose other place is that I wasted all the time thinking about what to eat :( <br />
+  So I decided to develop my own website, to help you decide what to eat easily. Simply pick up the category, eatInNEU will list the Top 3 venues for you to go!
 
   <h3>Highlights</h3>
   -------------------
@@ -15,39 +15,39 @@
   <h5>Become an User</h5>
   <ul>
    <li>Easy to become an user<br/>
-    Instead of enter tons of information, I know my website is design for lazy guys and this will definitely keep million users away from me, email address and password are enough! You can update your profile later, for example, edit your name, gender, location, website and link with other social tools. But for the sign up, I don't want to borther you with them.</li>
+    I know my website is design for lazy guys, too many signup info will definitely keep millions of users away from me. In this case, instead of entering tons of information, email address and password are enough! You can update your profile later, for example, edit your name, gender, location, website and link with other social websites. But for the sign up, I don't want to borther you with them!</li>
    <li>Easy to link<br/>
-    If you don't want to create a new account, you could sign in with Google, Facebook or Twitter account. There's no excuse to become an user, right? :P </li>
+    If you don't want to create a new account, you could also sign in with Google, Facebook or Twitter account. There's no excuse to become an user, right? :P </li>
    <li>Reset password<br/>
-    If you forgot your password, simply follow the instruction, the link would sent to your email and lead you to the password reset page.</li>
+    If you forgot your password, simply follow the instruction, the reset password link would be sent to your email address and lead you to the password reset page.</li>
    <li>Contact the developer? <br/>
-    Notice there's a 'Contact' button on the top of screen. You could pass your thoughts to me. Don't forget leave your email in order to get the feedback. If you find bugs, that's awkward, but please contact me and give me a chance to fix it. If you have some advises and suggestions, welcome to share your opinions!</li>
+    Notice there's a 'Contact' button on the top of screen. You could pass your thoughts to me. Don't forget to leave your email in order to get feedbacks. If you find bugs, that's awkward, but please contact me and give me a chance to fix it. If you have any advices and suggestions, welcome to share your opinions!</li>
   </ul>
-  <h5>Fetures</h5>
+  <h5>Features</h5>
   <ul>
    <li>All in here<br/>
     Included all the venues in NEU. No matter what you want to find, all here!</li>
    <li>Use Everywhere<br/>
     This website is responsive, works well on PC, tablets and phones.</li>
    <li>Search what you want<br/>
-    You could find your favorite one by input the name, our website would show you the one you searched, and recommond two venues you might interested with at the same time. Simple search, simple answer. </li>
+    You could find your favorite one by entering the name, our website would show you the one you searched, and also recommend two venues you might be interested with at the same time. Simple search, simple answer. </li>
    <li>Select what you want<br/>
     Maybe you're not sure which place to eat right now. I know it's a hard decision. What about select one directory you're interested with and let us to show you what we have. Simple select, simple choice. </li>
    <li>Get direction<br/>
-    After deceied where to go, let us guide you there. It would ask for permission to use your current location, please allow it in order to get a direction to the venue you chose.</li>
+    Once deceied where to go, let us guide you there. It would ask for permission to use your current location, please allow it in order to get a direction to the venue you chose.</li>
    <li>Leave Feedback<br/>
-   When you got there, or when you're all set, it's time to give us some feedback! Rate the venue, click 'Like' button at the right of the venue's detail page. Only one rate/like per user. But you could change the score you gave whenever you want. You could also leave some tips below. This would help others to know better about the venue. Tell us if you like it, share your favorite ones!</li>
+   When you got there, or when you're all set, it's time to give us some feedbacks! Rate the venue, click 'Like' button at the right of the venue's detail page. Only one rate/like per user allowed. But you could change the score you gave whenever you want. You could also leave some tips below. This would help others to know better about the venue. Tell us if you like it, share your favorite ones!</li>
    <li>Error? No Numbers! <br/>
-    I couldn't assure you there's no bad link in my website. But I use an error page to handle possible error as I could. 404 and 500 won's show directly, instead, you will see the page with lovely huskies. Maybe they are the ones who gonna taking responsibility for broken my page! :P</li>
+    I couldn't assure you there's no bad link in my website. But I use an error page to handle possible error as I could. 404 and 500 won's show directly, instead, you will see the page with lovely huskies. Maybe they are the ones who gonna take responsibility for broken my page! :P</li>
   </ul>
   <h5>About design</h5>
   <ul>
    <li>Bright color<br/>
     Use Orange as my theme color. This is a website about food. I know food makes you delight, so dose our website.</li>
    <li>Do you like my logo? <br/>
-   I'm pround to say, I really like the one I designed. The logo is the abbreviation of EatInNEU. It looks like a hungry husky who's looking for food just like you and me.</li>
+   I'm pround to say, I really like the one I designed. The logo is the abbreviation of EatInNEU. It also looks like a hungry husky who's looking for food just like you and me.</li>
    <li>Make everything SIMPLE<br/>
-   Simple is the key word of my website. Avoid using a lot of inputs or selections, one or two clicks are enough. For feedback, rating and likes only need clicks. Without redirect to other page, leave tips in the textarea and click 'ADD', you're all set.</li>
+   Simple is the key word of my website. Avoid using a lot of inputs or selections, one or two clicks are enough. For feedbacks, rating and likes only need clicks. Without redirect to other pages, leave tips in the textarea and click 'ADD', you're all set.</li>
   </ul>
   
   <h3>Steps to run locally</h3>
@@ -101,22 +101,22 @@
  
   <h3>Known Bugs</h3>
   ----------
-  This is embarrassing. Debugging draws me crazy. But there still have some known bugs.
+  This is embarrassing. Debugging drives me crazy. Unfortunately, there still has some known bugs.
   <ul>
    <li>Broswer<br/>
-    Chorme is recommoned.  IE, I'm sorry, this website dosen't work well on you.</li>
+    Chorme is recommoned. IE, I'm sorry, this website dosen't work well on you.</li>
    <li>Link<br/>
-    Use https instead of http. Serval user met Oauth problem when using http protocol. Might occur wrong redirection. </li>
+    Please use https instead of http. Several users met Oauth problem when using http protocol. Might occur wrong redirection. </li>
    <li>Maps<br/>
     Need time to load. Need permission to allow using current location. If canvas doesn't load successfully, try clear browser cookies. Most dead map would work after clear browsing data. </li>
   </ul>
-  If you find a new one, please let me know. Thanks!
+  If you find any new one, please let me know. Thanks!
 
   <h3>Contributing</h3>
   ---------------------
   <ul>
-   <li>Professor Annunziato, I want to express my sincere gratitude for all the efforts you have taken during these semester. From the day one, I have enjoyed every class. You have taught us so much useful and powerful skills.</li>
-   <li>Thanks for my TA, Sandeep, who gave me a lot of useful suggestions and always patiently solve the problems I met.</li>
+   <li>Professor Annunziato, I want to express my sincere gratitude for all the efforts you have taken during this semester. From the first day on, I have enjoyed every class. You have taught us so much useful and powerful skills.</li>
+   <li>Thanks for my TA, Sandeep, who gave me a lot of useful suggestions and always patiently solved my problems.</li>
    <li>Zhenhao and Bohan, I really appreciate your help. Everytime I met problems I couldn't fix, you never say no when I'm asking for help. Your accompanying becomes my strength to overcome every barrier. In such a short time, I don't think my website could officially online without you.</li>
   </ul>
   
